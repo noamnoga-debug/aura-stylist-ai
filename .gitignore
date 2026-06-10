@@ -29,16 +29,9 @@ env/
 .DS_Store
 Thumbs.db
 
-# Local images (already stored in Supabase)
+# Large catalog/people image folders (stored in Supabase)
 cataloge_pic/
 people_pic/
-home_women.avif
-home_accessories.avif
-home_men.avif
-stylist_1.jpg
-stylist_2.jpg
-stylist_3.jpg
-cart.jpeg
 
 # Plans/docs (internal)
 docs/
